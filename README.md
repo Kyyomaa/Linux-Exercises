@@ -40,8 +40,13 @@ This repository contains an automation script written in Python that sets up var
    ```
 3. Run the script using Python:
 
+   Italian:
     ```bash
-    python3 exam_script.py
+    python3 exercises_IT.py
+    ```
+   English:
+   ```bash
+    python3 exercises_IT.py
     ```
 
 ## Requirements
