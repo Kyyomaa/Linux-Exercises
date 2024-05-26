@@ -16,15 +16,15 @@ This repository contains an automation script written in Python that sets up var
 - **Tarball Handling**: Compresses a tarball files.
 - 
 ## Contents of the exercises 
-- ** Creating an Alias **
-- ** Simple backups **
-- ** look into the filesystem for a specific command **
-- ** Permissions **
-- ** ls command and some flags **
-- ** Very simple networking stuff **
-- ** Tarball handling**
-- ** files management **
-- **Creating a new User **
+- **Creating an Alias**
+- **Simple backups**
+- **look into the filesystem for a specific command**
+- **Permissions**
+- **ls command and some flags**
+- **Very simple networking stuff**
+- **Tarball handling**
+- **files management**
+- **Creating a new User**
 
 ## Usage
 
