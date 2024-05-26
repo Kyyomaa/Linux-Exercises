@@ -1,5 +1,5 @@
 
-# Exam Script
+# Basic Linux Exercises
 
 ## Description
 I made this tool to help my current classmates and future students study for an exam.
