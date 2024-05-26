@@ -60,4 +60,4 @@ This repository contains an automation script written in Python that sets up var
 
 ## Author
 
-Made with love from Kyoma
+Made with love by Kyoma
