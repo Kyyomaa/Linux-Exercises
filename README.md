@@ -3,7 +3,7 @@
 
 ## Description
 I made this tool to help my current classmates and future students study for an exam.
-This tool provides very basic linux exercises and it's also osuited for beginners looking to practice.
+This tool provides very basic linux exercises and it's also suited for beginners looking to practice.
 
 **THE ENGLISH VERSION WAS TRANSLATED BY CHATGPT**
 
