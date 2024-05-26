@@ -1,6 +1,4 @@
-Certainly! Here's the description formatted in Markdown so you can copy and paste it directly:
 
-```markdown
 # Exam Automation Script
 
 ## Description
