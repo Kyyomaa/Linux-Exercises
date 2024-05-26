@@ -1,6 +1,4 @@
-Certainly! Here's the updated script with all the Italian parts translated into English while keeping the same formatting:
 
-```python
 import os
 import subprocess
 
@@ -32,7 +30,6 @@ class Exam():
  █████ ███████████    █████          ░░░███░░████████ 
 ░░░░░ ░░░░░░░░░░░    ░░░░░             ░░░  ░░░░░░░░  
 """)
-        print (f"{self.FG_RED}REMIND ME ABOUT THE EXERCISE AT WHAT TIME!!!!{self.RESET}")
         
     def dirCheck(self):
         print("\nChecking if PLAYGROUND already exists...")
@@ -164,4 +161,3 @@ def main():
     
 if __name__ == '__main__':
     main()
-```
