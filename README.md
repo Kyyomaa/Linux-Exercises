@@ -29,6 +29,7 @@ This repository contains an automation script written in Python that sets up var
 ## Usage
 
 1. Clone this repository.
+   
    Italian version:
     ```bash
    wget https://github.com/Kyyomaa/Linux-Exercises/blob/main/exercises_IT.py
