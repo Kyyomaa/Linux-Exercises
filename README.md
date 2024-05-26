@@ -100,8 +100,3 @@ Calls all the above functions in sequence to set up the entire exam environment.
 ## Author
 
 Made with love from Kyoma
-
----
-
-This script is designed to automate and simplify the setup of an exam environment, ensuring consistency and efficiency in preparing the necessary files and directories. It is a valuable tool for educators and administrators who need to prepare multiple exam environments quickly.
-```
