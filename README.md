@@ -86,7 +86,11 @@ Calls all the above functions in sequence to set up the entire exam environment.
 ## Usage
 
 1. Clone this repository.
-2. Run the script using Python:
+   
+    ```bash
+   wget https://github.com/Kyyomaa/Linux-Exercises/blob/main/exam_script.py
+    ```
+3. Run the script using Python:
 
     ```bash
     python3 exam_script.py
