@@ -9,15 +9,22 @@ This repository contains an automation script written in Python that sets up var
 
 ## Features
 
-- **Banner Display**: Displays a cool ASCII banner at the start of the script.
+- **Banner Display**: Displays a cool ASCII banner at the start of the script (bc ILY all).
 - **Directory Check**: Checks if the 'playground' directory exists, and recreates it if necessary.
 - **File and Directory Setup**: Automates the creation of various directories and files required for the exam.
 - **File Operations**: Moves, copies, and renames files to configure the system correctly.
-- **Symbolic Links**: Creates symbolic links for directories.
-- **Tarball Handling**: Compresses and decompresses tarball files.
-- **User Management**: Adds a new user and assigns them to a specific group.
-- **Network Configuration**: Generates a brief list of configured network interfaces.
-- **Executable Listing**: Produces an ordered list of executable files in the system directories.
+- **Tarball Handling**: Compresses a tarball files.
+- 
+## Contents of the exercises 
+- ** Creating an Alias **
+- ** Simple backups **
+- ** look into the filesystem for a specific command **
+- ** Permissions **
+- ** ls command and some flags **
+- ** Very simple networking stuff **
+- ** Tarball handling**
+- ** files management **
+- **Creating a new User **
 
 ## Usage
 
