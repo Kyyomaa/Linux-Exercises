@@ -46,7 +46,7 @@ This repository contains an automation script written in Python that sets up var
     ```
    English:
    ```bash
-    python3 exercises_IT.py
+    python3 exercises_EN.py
     ```
 
 ## Requirements
