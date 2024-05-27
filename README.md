@@ -34,14 +34,6 @@ This repository contains an automation script written in Python that sets up var
 
 1. Clone this repository.
    
-   Italian version:
-    ```bash
-   wget https://github.com/Kyyomaa/Linux-Exercises/blob/main/exercises_IT.py
-    ```
-   English version:
-   ```bash
-   wget https://github.com/Kyyomaa/Linux-Exercises/blob/main/exercises_EN.py
-   ```
 3. Run the script using Python:
 
    Italian:
